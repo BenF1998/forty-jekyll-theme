@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>New grant funded!</h2>
+			<h2>Latest news</h2>
 		</header>
-		<p>I am pleased to have been awarded a £2000 grant by SAGES (Scottish Alliance for Geoscience, Environment and Scoiety) through the COVID-19 postrgaudate support scheme.I'll be using this money to conduct some phytoplankton sampling in Scotland as a first step towards setting up the isotpoe tracer method I am planning to deploy in Antarctica.</p>
+		<p>Here you can read about my latest news. I typically like to write about new papers I've published, conferences, grants, or anything else exciting that has happened. Take a look, you might find something interesting!</p>
 	</div>
 </section>
 
@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>New grant funded!</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I am pleased to have been awarded a £2000 grant by SAGES (Scottish Alliance for Geoscience, Environment and Scoiety) through the COVID-19 postrgaudate support scheme.I'll be using this money to conduct some phytoplankton sampling in Scotland as a first step towards setting up the isotpoe tracer method I am planning to deploy in Antarctica.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
