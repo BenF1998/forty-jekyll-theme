@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications & Conferences 
-description: ""
+description: "assets/images/pubs.jpeg"
 image: 
 nav-menu: true
 ---
