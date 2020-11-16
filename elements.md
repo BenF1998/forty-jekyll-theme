@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Me & My Research
+image: assets/images/me.jpg
 nav-menu: true
 ---
 
