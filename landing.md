@@ -1,5 +1,5 @@
 ---
-title: Blog posts and updates 
+title: Blog Posts and Updates 
 layout: landing
 description: ""
 image: assets/images/pic07.jpg
