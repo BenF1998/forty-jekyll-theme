@@ -6,9 +6,9 @@ description: "PhD Student in Marine Biogeochemistry <br> University of Edinburgh
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Grant Institiute, Kings Buildings, University of Edinburgh
+street_address: "Grant Institiute, Kings Buildings, <br> University of Edinburgh"
 city: Edinburgh
-post_code: EH9 3FE
+zip_code: EH9 3FE
 country: UK
 
 # homepage tiles
