@@ -79,7 +79,7 @@ nav-menu: true
 		</header>
 		<p>You can see all my blog posts and updates by following the link below.</p>
 		<ul class="actions">
-			<li><a href="allposts.html" class="button next">More posts</a></li>
+			<li><a href="all_posts.html" class="button next">More posts</a></li>
 		</ul>
 	</div>
 </section>
