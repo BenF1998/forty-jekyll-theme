@@ -39,32 +39,32 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="assets/images/bg.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>New preprint available</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A new preprint from my masters work is now available for reading while it undergoes an open review process at the EGU's Biogeosciences journal. The new paper, <a href="https://bg.copernicus.org/preprints/bg-2020-399/>"Uncovering the influence of methodological variations on the extractability of iron bound organic carbon"</a> is in the form of a technical note and reports on experiments done during my time at the University of Leeds evaluating iterations of the CBD protcol for extracting iron bound organic carbon.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="bg.html" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="assets/images/egu20.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>EGU 2020</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p> I presented my first international conference talk virtually at EGU2020 in the BG4.2 session. My talk "What's af(Fe)cting OC-Fe interactions? An experimental approach to understanding iron bound organic carbon in sediments" focused on the work done during my masters to determine the extent of the role of reactive iron in stabilising organic carbon. The abstract for this talk is available via the link below.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="EGU20.html" class="button">See abstract</a></li>
 				</ul>
 			</div>
 		</div>
