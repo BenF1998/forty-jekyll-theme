@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>New grant funded!</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>I am pleased to have been awarded a £2000 grant by SAGES (Scottish Alliance for Geoscience, Environment and Scoiety) through the COVID-19 postrgaudate support scheme.I'll be using this money to conduct some phytoplankton sampling in Scotland as a first step towards setting up the isotpoe tracer method I am planning to deploy in Antarctica.</p>
 	</div>
 </section>
 
