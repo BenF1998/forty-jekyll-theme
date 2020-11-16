@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Publications & Conferences 
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: ""
+image: 
 nav-menu: true
 ---
 
