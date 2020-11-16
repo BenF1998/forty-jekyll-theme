@@ -4,7 +4,7 @@ subtitle: ""
 email: ben.fisher@ed.ac.uk
 description: "PhD Student in Marine Biogeochemistry <br> University of Edinburgh, UK"
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: benjfisher.com
 author:
 street_address: "Grant Institiute, Kings Buildings, <br> University of Edinburgh"
 city: Edinburgh
