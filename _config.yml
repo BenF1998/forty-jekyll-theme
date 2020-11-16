@@ -2,16 +2,14 @@
 title: Ben Fisher
 subtitle: ""
 email: ben.fisher@ed.ac.uk
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: PhD Student in Marine Biogeochemistry at the University of Edinburgh
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Grant Institiute, Kings Buildings, University of Edinburgh
+city: Edinburgh
+post_code: EH9 3FE
+country: UK
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -19,14 +17,9 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
+googlescholar_url: https://scholar.google.com/citations?user=97WwFcQAAAAJ&hl=en
+linkedin_url: https://uk.linkedin.com/in/ben-fisher-16a34b151
+university_url: https://www.ed.ac.uk/profile/ben-fisher
 twitter_url: https://twitter.com/BenFisher_
 
 # build settings
