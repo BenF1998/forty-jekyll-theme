@@ -1,10 +1,16 @@
 ---
-layout: post
+layout: page
 title: Publications & Conferences 
 description: ""
 image: assets/images/pubs.jpg
 nav-menu: true
 ---
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Publications & Conferences</h1>
+		</header>
 <h2>Publications</h2>
 <ul>
 <li>Experimental evaluation of the extractability of iron bound organic carbon in sediments as a function of carboxyl content. <br><strong>Fisher, B. J.</strong>, Faust, J. C., Moore, O. W., Peacock, C. L., and M&auml;rz, C.<br> Chemical Geology, 119853 (2020)&nbsp;<a title="Persistent link using digital object identifier" href="https://doi.org/10.1016/j.chemgeo.2020.119853" aria-label="Persistent link using digital object identifier">https://doi.org/10.1016/j.chemgeo.2020.119853</a></li>
