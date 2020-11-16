@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: page
 title: Me & My Research
 image: assets/images/me.jpg
 nav-menu: true
 ---
-
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Me & My Research </h1>
+		</header>
 <p>This page contains my current and past research projects. In addition to these I have research interests in a wide range of areas, incluidng: geomicrobiology, organic geochemistry, astrobiogeochemistry, ice-ocean interactions and wider cryosphere processes. I'm always keen to get involved in new collaborations, if you are interested in working with me then please get in touch!</p>
 <h2>PhD- The influence of climate driven changes in ocean productivity on carbon and nitrogen uptake on the West Antarctic Peninsula.&nbsp;</h2>
 <h4>Supervised by:&nbsp;Dr Sian Henley (Edinburgh), Dr Alex Poulton (Herriot-Watt), Prof Keith Davidson (SAMS), Prof Mike Meredith (BAS). From 2020-2024</h4>
