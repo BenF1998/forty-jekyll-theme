@@ -15,4 +15,4 @@ In the end, we decided the best use of time was to bring forward the method deve
 I am incredibly grateful for the support SAGES has offered me, it has been a massive help to mitigating the distrubance to my PhD. For now I am going to continue running these experiments and make as much methods progress as posisble while I keep my fingers crossed for a 2021/22 field season! 
 <img src="assets/images/one.jpg" width="500" class="left"/><img src="assets/images/two.jpg" width="500" class="right"/>
 
-Incubation of phytoplankton sampled from Dunbar, Scotland <i>left</i> Particulate organic matter filtered out of seawater samples <i>right</i>
+Incubation of phytoplankton sampled from Dunbar, Scotland <i>(left)</i>. Particulate organic matter filtered out of seawater samples <i>(right)</i>
