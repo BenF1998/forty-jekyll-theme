@@ -2,7 +2,7 @@
 title: Blog Posts and Updates 
 layout: landing
 description: ""
-image: 
+image: assets/images/blog.jpg
 nav-menu: true
 ---
 
