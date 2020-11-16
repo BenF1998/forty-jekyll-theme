@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Latest news</h2>
 		</header>
-		<p>Here you can read about my latest news. I typically like to write about new papers I've published, conferences, grants, or anything else exciting that has happened. Take a look, you might find something interesting!</p>
+		<p>Here you can read about what I've been up to. I typically like to write about new papers I've published, conferences, grants, or anything else exciting that has happened. Take a look, you might find something interesting!</p>
 	</div>
 </section>
 
