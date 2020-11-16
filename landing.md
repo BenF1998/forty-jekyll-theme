@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>New preprint available</h3>
 				</header>
-				<p>A new preprint from my masters work is now available for reading while it undergoes an open review process at the EGU's Biogeosciences journal. The new paper, <a href="https://bg.copernicus.org/preprints/bg-2020-399/>"Uncovering the influence of methodological variations on the extractability of iron bound organic carbon"</a> is in the form of a technical note and reports on experiments done during my time at the University of Leeds evaluating iterations of the CBD protcol for extracting iron bound organic carbon.</p>
+				<p>A new preprint from my masters work is now available for reading while it undergoes an open review process at the EGU's Biogeosciences journal. The new paper, <a href="https://bg.copernicus.org/preprints/bg-2020-399">Uncovering the influence of methodological variations on the extractability of iron bound organic carbon"</a> is in the form of a technical note and reports on experiments done during my time at the University of Leeds evaluating iterations of the CBD protcol for extracting iron bound organic carbon.</p>
 				<ul class="actions">
 					<li><a href="bg.html" class="button">Read more</a></li>
 				</ul>
