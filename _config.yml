@@ -19,8 +19,10 @@ tiles-count: 6
 500px_url:
 googlescholar_url: https://scholar.google.com/citations?user=97WwFcQAAAAJ&hl=en
 linkedin_url: https://uk.linkedin.com/in/ben-fisher-16a34b151
-university_url: https://www.ed.ac.uk/profile/ben-fisher
+uni_url: https://www.ed.ac.uk/profile/ben-fisher
 twitter_url: https://twitter.com/BenFisher_
+rg_url: https://www.researchgate.net/profile/Ben_Fisher25
+orcid_url: https://orcid.org/0000-0001-7113-2818
 
 # build settings
 markdown: kramdown
