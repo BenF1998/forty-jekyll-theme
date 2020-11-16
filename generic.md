@@ -5,13 +5,18 @@ description: ""
 image: assets/images/pubs.jpg
 nav-menu: true
 ---
-<h2>Publications<h2>
-  Experimental evaluation of the extractability of iron bound organic carbon in sediments as a function of carboxyl content <br>
-      <b>Fisher, B. J.,</b> Faust, J. C., Moore, O. W., Peacock, C. L., and März, C.
-    <i>Chemical Geology, 119853 (2020)</i> <a>https://doi.org/10.1016/j.chemgeo.2020.119853</a> 
-      
-Dolnec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<h2>Publications</h2>
+<p>Experimental evaluation of the extractability of iron bound organic carbon in sediments as a function of carboxyl content</p>
+<p><strong>Fisher, B. J.</strong>, Faust, J. C., Moore, O. W., Peacock, C. L., and M&auml;rz, C.</p>
+<p>Chemical Geology, 119853 (2020)&nbsp;<a title="Persistent link using digital object identifier" href="https://doi.org/10.1016/j.chemgeo.2020.119853" aria-label="Persistent link using digital object identifier">https://doi.org/10.1016/j.chemgeo.2020.119853</a></p>
+<h2>In Review</h2>
+<p>Technical Note: Uncovering the influence of methodological variations on the extractability of iron bound organic carbon</p>
+<p><strong>Fisher, B. J</strong>., Faust, J. C., Moore, O. W., Peacock, C. L., and M&auml;rz, C.</p>
+<p>Biogeosciences Discuss., in review, (2020) <a href="https://doi.org/10.5194/bg-2020-399">https://doi.org/10.5194/bg-2020-399</a></p>
+<h2>Conference Presentations</h2>
+<p>European Geosciences Union&nbsp;2020-&nbsp;What's af (Fe) cting OC-Fe interactions? An experimental approach to understanding iron bound organic carbon in sediments.</p>
+<p><strong>Fisher, B. J</strong>., Faust, J. C., Moore, O. W., Peacock, C. L., and M&auml;rz, C.</p>
+<p>EGU General Assembly Conference Abstracts, 855. May 2020 (virtual)</p>
+<p>Quaternary Research Association ADM 2020-&nbsp;Implications of organic ligand dependent preservation of iron in the seafloor for marine carbon cycling</p>
+<p><strong>Fisher, B. J</strong>., Faust, J. C., Moore, O. W., Peacock, C. L., and M&auml;rz, C.</p>
+<p>QRA ADM Abstracts, Leeds UK. January 2020</p>
