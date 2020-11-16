@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me & my research
+title: Me & My Research
 nav-menu: true
 ---
 
