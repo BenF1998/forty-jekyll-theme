@@ -5,11 +5,11 @@ description: ""
 image: 
 show_tile: false
 ---
-<h2>What's af(Fe)cting OC-Fe interactions? An experimental approach to understanding iron bound organic carbon in sediments<h2>
-<h4>Ben Fisher, Christian März, Johan Faust, Oliver Moore, Caroline Peacock<h4>
-Friday 8th May 2020
+<h2>What's af(Fe)cting OC-Fe interactions? An experimental approach to understanding iron bound organic carbon in sediments</h2>
+<h3>Ben Fisher, Christian März, Johan Faust, Oliver Moore, Caroline Peacock</h3>
+<h4>Friday 8th May 2020
 
-<h4> Abstract <h4>
+Abstract </h4>
 Drawdown of atmospheric CO2 over geologic timescales is largely controlled by imbalances in the carbonate-silicate cycles and the preservation of Organic Carbon (OC) in marine sediments. Up to 85% of this OC is buried in continental shelf sediments of which ~20% is associated with reactive iron (Fe) (hydr)oxides. Association with Fe (hydr)oxides may enhance OC preservation yet despite the importance of this, little is known about which Fe (hydr)oxide phase(s) is involved in OC uptake or the binding mechanism of OC to these reactive iron minerals.
 To estimate the importance of this OC-Fe association, a citrate-dithionite-bicarbonate (CDB) extraction method is commonly used to dissolve an operationally defined ‘easily reducible iron oxide’ fraction and release the associated OC from the sediment. However, natural samples often contain a range of Fe (hydr)oxide phases extractable by CDB, and the Fe phases extracted are defined entirely on the susceptibility of their pure forms to chemical reduction. This suggests that factors affecting mineral stability, including association with OC, could lead to incomplete or excessive phase extraction, which would affect estimates of OC bound to these Fe phases.
 To address these issues, we simplified the geochemical system by synthesising OC-iron (hydr)oxide composites with known Fe (hydr)oxide phases and OC moieties with differing chemical structures, added them to OC-free sediment, and then applied the CDB extraction method to determine i) the precise Fe phases extracted; ii) the impact of OC moiety on Fe release and iii) the optimal experimental conditions for the extraction.
