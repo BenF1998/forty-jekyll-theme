@@ -5,6 +5,7 @@ description: ""
 image: 
 show_tile: false
 ---
+Friday 13th November 2020
 
 I am pleased to have been awarded a £2000 grant by SAGES (Scottish Alliance for Geoscience, Environment and Scoiety) through the COVID-19 postrgaudate support scheme. I'll be using this money to conduct some phytoplankton sampling in Scotland as a first step towards setting up the isotpoe tracer method I am planning to deploy in Antarctica.
 
