@@ -9,7 +9,7 @@ author:
 street_address: "Grant Institiute, Kings Buildings, <br> University of Edinburgh"
 city: Edinburgh
 zip_code: EH9 3FE
-country: UK
+country: "Scotland, UK"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
