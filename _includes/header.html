@@ -4,38 +4,6 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
-			<ul class="icons">
-				{% if site.twitter_url %}
-				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				{% endif %}
-				{% if site.facebook_url %}
-				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-				{% endif %}
-				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				{% endif %}
-				{% if site.pinterest_url %}
-				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
-				{% endif %}
-				{% if site.500px_url %}
-				<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
-				{% endif %}
-				{% if site.uni_url %}
-				<li><a href="{{ site.uni_url }}" class="icon alt fa-graduation-cap" target="_blank"><span class="label">Edinburgh</span></a></li>
-				{% endif %}
-				{% if site.linkedin_url %}
-				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-				{% endif %}
-				{% if site.ORCID_url %}
-				<li><a href="{{ site.ORCID_url }}" class="icon fa-orcid" target="_blank"><span class="label">Orcid</span></a></li>
-				{% endif %}
-				{% if site.researchgate_url %}
-				<li><a href="{{ site.researchgate_url }}" class="icon fa-researchgate" target="_blank"><span class="label">Researchagate</span></a></li>
-				{% endif %}
-				{% if site.googlescholar_url %}
-				<li><a href="{{ site.googlescholar_url }}" class="ai ai-google-scholar" target="_blank"><span class="label">Google Scholar</span></a></li>
-				{% endif %}
-			</ul>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
