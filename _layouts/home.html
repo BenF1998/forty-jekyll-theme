@@ -16,9 +16,8 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{ page.landing-title }}</h1>
-		    		<ul class="icons">
-				{% if site.twitter_url %}
+                <h1>{{ page.landing-title }}</h1> <ul class="icons"> 
+		                {% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
 				{% if site.facebook_url %}
