@@ -10,11 +10,13 @@
 		@include icon;
 		border-bottom: none;
 		position: relative;
+		text-decoration: none;
 
 		> .label {
 		        position: absolute !important;
                         top: -9999px !important;
                         left: -9999px !important;
+			text-decoration: none;
 		}
 
 		&.alt {
