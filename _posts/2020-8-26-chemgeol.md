@@ -2,7 +2,7 @@
 layout: post
 title: New paper published!
 description: 
-image: assets/images/chemgeol.png
+image: "src=assets/images/chemgeol.png width=200px"
 ---
 Wednesday 26th August 2020 <br>
 My first first author paper has been <a href="https://www.sciencedirect.com/science/article/pii/S0009254120303922"> published in Chemical Geology</a>. This paper was born out of my MSc project at the University of Leeds, experimentally investigating the importance of reactive iron for organic carbon preservation. 
