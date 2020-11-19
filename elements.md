@@ -17,7 +17,7 @@ nav-menu: true
 <p>In this project I am developing a seasonal scale time series for phytoplankton community compositon and biogeochemical cycling of carbon, nitrogen and important macronutrients on the West Antarctic Peninusla. We aim to associate phytoplankton community dynamics with biogeochemical cycling and understand how phytoplankton adapt to physical climate change through the different seasons.&nbsp;</p>
 <p>This project utilises many multidisciplinary tools and data sets to achieve this, bringing together phyiscal oceanography to understand the underlying currents with isotopic tracers to monitor the uptake of carbon and nitrogen. Nutrient profiles are determined using high throughput nitrate, nitrie, phopshate and silicilic acid methods and phytoplankton communities are assessed by microscopy and density.&nbsp;</p>
 <p>To facilitate this I am grateful for funding recieved from NERC and SAGES, in addition to logistical and technical support from The University of Edinburgh, The Scottish Association for Marine Science and The British Antarctic Survey.&nbsp;</p>
-<p><figure><img src="assets/images/rothera.jpg" alt="Rothera Research Station, fieldwork site for my PhD sampling." class="center"/><figcaption>Rothera Research Station, fieldwork site for phytoplankton sampling, image:Pete Bucktrout,BAS<figcaption><figure></p>
+<p><figure><img src="assets/images/rothera.jpg" alt="Rothera Research Station, fieldwork site for my PhD sampling." class="center"/><figcaption>Rothera Research Station, fieldwork site for phytoplankton sampling, image:Pete Bucktrout,BAS<figcaption><figure>
 <h2>MScR-&nbsp;An experimental approach to understand the role of iron bound carbon for organic matter preservation in marine sediments.&nbsp;</h2>
 <h4>Supervised by Dr Christian M<strong>&auml;rz, Dr Johan Faust, Dr Oliver Moore and Prof Caroline Peacock (University of Leeds). From 2019-2020</strong></h4>
 <p>In this project I investigated the role of carboxyl groups in a preservative sorption mechanism of organic carbon to reactive iron phases in marine sediments. This involved using an experimental approach to synthesise organic-ferrihydrite compounds with known carbon and iron contents. A chemical extraction technique (CBD) was then applied to these samples in order to better understand the specificity of this extraction technique for quantifying the iron bound carbon pool. From this study we were able to quantify uncertainties in techniques used to quantify preserved organic carbon on a global scale and suggest improvements to reduce these uncertainties.</p>
@@ -25,3 +25,21 @@ nav-menu: true
 <p>This project was supported by grants awards to the Changing Arctic Ocean Program <a href="https://www.changing-arctic-ocean.ac.uk/project/chaos/">ChAOS</a>, NERC and <a href="https://www.minorg.co.uk/">MinORG</a>, ERC.</p>
 <p>If you wish to read more about this project, check out the publications <a href="https://www.sciencedirect.com/science/article/pii/S0009254120303922">here</a> and <a href="https://bg.copernicus.org/preprints/bg-2020-399/">here</a>&nbsp;</p>
 <p>&nbsp;</p>
+<h3>Education</h3><ul>
+	<li>PhD: Environmental and Atmospheric Sciences- University of Edinburgh (2020-ongoing)</li>
+	<li>MScR: Earth Sciences- University of Leeds (2019-20)</li>
+	<li>BSc (hons): Biological Sciences- University of Exeter (2016-2019)</li></ul>
+<h3>Teaching</h3><br>
+I enjoy teaching and demonstarting on a range of geochemistry causes with a particualr focus on first year skills building and foundation courses.<br>
+<b>University of Edinburgh:</b><br>
+	<ul><li>Evolution of the Living Earth (EASC08023)</li></ul><br>
+	<b>University of Leeds:</b><ul><br>
+	<li>Foundaiton Chemistry (SOEE1135)</li>
+	<li>Chemistry of the Earth (SOEE2010)</li></ul>
+<h3>Professional Memberships</h3><ul>
+<li>European Association of Geochemistry </li>
+<li>European Geosciences Union </li></ul>
+
+	
+
+
