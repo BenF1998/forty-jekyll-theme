@@ -13,6 +13,9 @@ nav-menu: true
 		</header>
 <h2>Publications</h2>
 <ul>
+<li><p>Millennial scale persistence of organic carbon bound to iron in Arctic marine sediments</p>
+<p>Faust J.C, Tessin.A, <strong>Fisher B.J</strong>, Zindorf.M, Papadaki.S, Hendry K.R, Doyle K.A, M&auml;rz.C</p>
+	<p>Nature Communications (2021) <em>In Press</em></p></li>
 <li>Experimental evaluation of the extractability of iron bound organic carbon in sediments as a function of carboxyl content. <br><strong>Fisher, B. J.</strong>, Moore, O. W., Faust, J. C., Peacock, C. L., and M&auml;rz, C.<br> Chemical Geology, 119853 (2020)&nbsp;<a title="Persistent link using digital object identifier" href="https://doi.org/10.1016/j.chemgeo.2020.119853" aria-label="Persistent link using digital object identifier">https://doi.org/10.1016/j.chemgeo.2020.119853</a></li>
 </ul>
 <h2>In Review</h2>
